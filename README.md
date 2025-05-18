@@ -1,16 +1,13 @@
 # About me
+![image](https://github.com/user-attachments/assets/63eae0db-3175-4c3e-9de5-2196a3dd0860)
+![image](https://github.com/user-attachments/assets/e67ad35d-b74f-4222-a2bf-9c85e2416c57)
 
 
-**ChenJiajunPhilip/ChenJiajunPhilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am Philip, an NUS undergraduate with a major in Quantitative Finance and a minor in Artificial Intelligence. I am currently working as an intern at IHPC at A*STAR.
 
-Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/12f83e7c-54f9-4bd2-bf46-d0bd420c22d4) https://www.linkedin.com/in/chen-jiajun-philip/ <br>
+![image](https://github.com/user-attachments/assets/3921f4b8-4305-4049-a218-feb033bdb320) https://youtube.com/@philipchen-gi9py?si=UGTXHYXJYZekpvEE
 
-- 🔭 I’m currently working on Github
-- 🌱 I’m currently learning Github
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
