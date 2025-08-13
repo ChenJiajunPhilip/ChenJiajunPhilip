@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/e67ad35d-b74f-4222-a2bf-9c85e2416c57)
 
 
-Hello! I am Philip, an NUS undergraduate with a major in Quantitative Finance and a minor in Artificial Intelligence. I am currently working as an intern at IHPC at A*STAR.
+Hello! I am Philip, an NUS penultimate undergraduate with a major in Quantitative Finance with a second major in Computer Science and minor in Mathematics. 
 
 ![image](https://github.com/user-attachments/assets/12f83e7c-54f9-4bd2-bf46-d0bd420c22d4) https://www.linkedin.com/in/chen-jiajun-philip/ <br>
 ![image](https://github.com/user-attachments/assets/3921f4b8-4305-4049-a218-feb033bdb320) https://youtube.com/@philipchen-gi9py?si=UGTXHYXJYZekpvEE
