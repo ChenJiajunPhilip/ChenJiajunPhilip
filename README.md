@@ -7,9 +7,6 @@ I am familiar with Python and I also have some experience working with Java and 
 ![Gospers_glider_gun](https://github.com/user-attachments/assets/fa6b88d4-cd4e-4bbe-89ca-83b1648f4aa2) \
 I worked as a Machine Learning Intern at the Institute of High Performance Computing in summer of 2025, where, using Python, I worked with neural networks (DNN, LSTM) and time series machine learning models such as ARIMA. \
 To view my DNN (Deep Neural Network) project, [click here](https://github.com/ChenJiajunPhilip/Ship-hulls-using-DNN).
-<img width="256" height="128" alt="unnamed" src="https://github.com/user-attachments/assets/482092cd-e09b-44c7-ad30-c11b657fb2a6" />
-
-
 
 
 
