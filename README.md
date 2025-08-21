@@ -10,5 +10,7 @@ To view my DNN (Deep Neural Network) project, [click here](https://github.com/Ch
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/12f83e7c-54f9-4bd2-bf46-d0bd420c22d4) [My LinkedIn page](https://www.linkedin.com/in/chen-jiajun-philip/) <br>
 ![image](https://github.com/user-attachments/assets/3921f4b8-4305-4049-a218-feb033bdb320) [My YouTube channel](https://youtube.com/@philipchen-gi9py?si=UGTXHYXJYZekpvEE)
