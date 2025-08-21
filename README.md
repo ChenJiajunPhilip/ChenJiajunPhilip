@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/e67ad35d-b74f-4222-a2bf-9c85e2416c57)
 
 
-Hello! I am Philip, an NUS penultimate undergraduate with a major in Quantitative Finance with a second major in Computer Science and minor in Mathematics.  \
+Hello! I am Philip, an NUS penultimate year undergraduate with a major in Quantitative Finance with a second major in Computer Science and minor in Mathematics.  \
 I am familiar with Python, having written a Python programme to run Conway's game of life, as shown in my pinned repository. \
 ![Gospers_glider_gun](https://github.com/user-attachments/assets/fa6b88d4-cd4e-4bbe-89ca-83b1648f4aa2) \
 I worked as a Machine Learning Intern at the Institute of High Performance Computing in summer of 2025, where, using Python, I worked with neural networks (DNN, LSTM) and time series machine learning models such as ARIMA. \
