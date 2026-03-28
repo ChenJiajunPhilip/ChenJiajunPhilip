@@ -2,9 +2,10 @@
 ![image](https://github.com/user-attachments/assets/e67ad35d-b74f-4222-a2bf-9c85e2416c57)
 
 
-Hello! I am Philip, an NUS penultimate year undergraduate with a major in Quantitative Finance with a second major in Computer Science and minor in Mathematics.  \
-I am familiar with Python and I also have some experience working with Java and C++. Check out my project on Conway's Game of Life [here](https://github.com/ChenJiajunPhilip/Conway-s-Game-of-Life-with-Python). \
+Hello! I am Philip, an NUS penultimate year undergraduate with a major in Quantitative Finance with a minor in Artificial Intelligence.  \
+I am familiar with Python and Python libraries such as Numpy and Pandas. Check out my personal project on Conway's Game of Life [here](https://github.com/ChenJiajunPhilip/Conway-s-Game-of-Life-with-Python). \
 ![Gospers_glider_gun](https://github.com/user-attachments/assets/fa6b88d4-cd4e-4bbe-89ca-83b1648f4aa2) \
+Through my courses at NUS, I also have some experience with other programming languages such as R, C/C++, and Java. 
 I worked as a Machine Learning Intern at the Institute of High Performance Computing in summer of 2025, where, using Python, I worked with neural networks (DNN, LSTM) and time series machine learning models such as ARIMA. \
 To view my DNN (Deep Neural Network) project, [click here](https://github.com/ChenJiajunPhilip/Ship-hulls-using-DNN).
 
